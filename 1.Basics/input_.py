@@ -3,4 +3,4 @@
 name_ = input('Enter your name: ')
 
 if __name__ == "__main__":
-    print(f'You entered name {name_}.')
+    print(f'You entered name {name_.title()}.')
