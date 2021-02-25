@@ -24,5 +24,5 @@ user_name@host_name:~$ python3 program_name.py
 #!/usr/bin/env python3
 print("Hello, World!")
 ```
-Для назначения файла исполняемым: `user_name@host_name:~$ chmod +x program_name.py`
-Для выполнения файла -> `user_name@host_name:~$ ./program_name.py`
+* Для назначения файла исполняемым: `user_name@host_name:~$ chmod +x program_name.py`
+* Для выполнения файла -> `user_name@host_name:~$ ./program_name.py`
