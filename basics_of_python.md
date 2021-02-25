@@ -13,6 +13,7 @@ user_name@host_name$: python3
 >>> 2 + 2
 4
 >>>
+```
 
 ### Запуск программ с расширением .py
-```user_name@host_name$: python3 program_name.py
+user_name@host_name$: python3 program_name.py
