@@ -1,5 +1,5 @@
 # Repository for educational purposes.
-Goals are:
+## Goals are:
 * 1.Python basics
 * 2.VIM
 * 3.Basics of Git
