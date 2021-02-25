@@ -8,7 +8,7 @@ _**Python**_ интерпритируемый язык(язык сценарие
 #### REPL
 Интерактивный интерпритатор, ожидает в цикле, пока появятся входные данные, читает и обрабатывает их, после чего выводит результат.(Read -> Evaluate -> Print -> Loop). Более интересным в этом плане является ipython3 или Jupyter.
 ###
-user_name@host_name$: python3
+user_name@host_name:~$ python3
 ```
 >>> 2 + 2
 4
@@ -16,4 +16,4 @@ user_name@host_name$: python3
 ```
 
 ### Запуск программ с расширением .py
-user_name@host_name$: python3 program_name.py
+user_name@host_name:~$ python3 program_name.py
