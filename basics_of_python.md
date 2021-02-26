@@ -26,3 +26,14 @@ print("Hello, World!")
 ```
 * Для назначения файла исполняемым: `user_name@host_name:~$ chmod +x program_name.py`
 * Для выполнения файла -> `user_name@host_name:~$ ./program_name.py`
+###Ввод и вывод данных
+Для ввода и вывода данных используются следующие функции:
+* input -> `name = input('Enter your name here: ')`
+* print -> `print(f'Hello, {name}')`
+#### Пример кода:
+```
+#!/usr/bin/env python3
+print('Enter your name here: ')
+name = input('->')
+print(f'Your name is {name}.)
+```
